@@ -2,4 +2,6 @@
 ## zhaosheng
 #### liuxing 
 - *zhaoweisheng*
-* ~~zhao~~
+* ~~zhao~
+[x] [baidu](http://baidu.com)
+[qihaoyan](http://octodex.github.com/images/yaktocat.png)
